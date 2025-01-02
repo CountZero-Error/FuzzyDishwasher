@@ -2,7 +2,7 @@
 This project aims to simulate dishwasher with fuzzy logic.
 ---
 
-Usage
+**Usage**
 
 <pre>
   pip install scikit-fuzzy numpy
