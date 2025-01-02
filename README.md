@@ -5,8 +5,9 @@ This project aims to simulate dishwasher with fuzzy logic.
 **Usage**
 
 <pre>
-  pip install scikit-fuzzy numpy
+  https://github.com/CountZero-Error/FuzzyDishwasher.git
   cd FuzzyDishwasher/
+  pip install scikit-fuzzy numpy
   python dishwasher.py
 </pre>
 
