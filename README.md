@@ -89,11 +89,11 @@ This project aims to simulate dishwasher with fuzzy logic.
 - **Description**: The temperature of the water during the washing cycle.
 - **Range**: 30°C to 90°C.
 - **Linguistic Terms**:
-  - **Low**: Warm water for delicate loads or lightly soiled dishes (30–50°C).
-  - **Medium**: Hot water for normal cleaning (50–70°C).
+  - **Low**: Warm water for delicate loads or lightly soiled dishes (30–55°C).
+  - **Medium**: Hot water for normal cleaning (50–75°C).
   - **High**: Very hot water for heavy cleaning (70–90°C).
 
-![clipboard9](https://github.com/user-attachments/assets/61bbf453-9e58-466f-b5f4-785b15877edc)
+![clipboard1](https://github.com/user-attachments/assets/6f195730-b92b-41d6-9c4d-bcdc6eecea8a)
 
 ---
 ## **Fuzzy Mapping Table**
