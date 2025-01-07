@@ -47,8 +47,8 @@ class washer:
 
         # Water Temperature
         water_temperature = ctrl.Consequent(np.arange(30, 91, 1), 'water_temperature')
-        water_temperature['low'] = fuzz.trimf(water_temperature.universe, [30, 40, 50])
-        water_temperature['medium'] = fuzz.trimf(water_temperature.universe, [50, 60, 70])
+        water_temperature['low'] = fuzz.trimf(water_temperature.universe, [30, 40, 55])
+        water_temperature['medium'] = fuzz.trimf(water_temperature.universe, [50, 60, 75])
         water_temperature['high'] = fuzz.trimf(water_temperature.universe, [70, 80, 90])
 
         self.IO = {
