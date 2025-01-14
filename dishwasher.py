@@ -258,6 +258,5 @@ if __name__ == '__main__':
     dish_quantity = random.randint(1, 10)
     water_hardness = round(random.uniform(0, 10), 1)
 
-    # mywasher = washer(dirtiness, dish_quantity, water_hardness)
-    mywasher = washer(1, 1, 1)
+    mywasher = washer(dirtiness, dish_quantity, water_hardness)
     mywasher.wash()
